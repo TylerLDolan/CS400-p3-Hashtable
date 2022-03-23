@@ -35,7 +35,7 @@ public class TestHashTable{
 		ht = null;
 	}
 		
-	/** IMPLEMENTED AS EXAMPLE FOR YOU
+	/** 
 	 * Tests that a HashTable is empty upon initialization
 	 */
 	@Test
@@ -43,7 +43,7 @@ public class TestHashTable{
 		assertEquals("size with 0 entries:", 0, ht.size());
 	}
 	
-	/** IMPLEMENTED AS EXAMPLE FOR YOU
+	/** 
 	 * Tests that a HashTable is not empty after adding one (K, V) pair
 	 */
 	@Test
@@ -54,7 +54,7 @@ public class TestHashTable{
 		assertEquals("size with one entry:",expected,actual);
 	}
 
-	/** IMPLEMENTED AS EXAMPLE FOR YOU
+	/** 
 	 * Other tests assume <int,Object> pairs,
 	 * this test checks that <Long,Object> pair also works.
 	 */
