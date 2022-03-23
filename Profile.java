@@ -1,7 +1,7 @@
 /**
  * Filename:   Profile.java
  * Project:    p3
- * Authors:    Tyler Dolan, Collin L.
+ * Authors:    Tyler Dolan
  *
  * Semester:   Fall 2018
  * Course:     CS400
