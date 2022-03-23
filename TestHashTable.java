@@ -1,7 +1,7 @@
 /**
  * Filename:   TestHashTable.java
  * Project:    p3
- * Authors:    Tyler Dolan
+ * Authors:    Collin L, Tyler Dolan
  *
  * Semester:   Fall 2018
  * Course:     CS400

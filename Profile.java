@@ -1,17 +1,17 @@
 /**
  * Filename:   Profile.java
  * Project:    p3
- * Authors:    TODO: add your name(s) and lecture numbers here
+ * Authors:    Tyler Dolan, Collin L.
  *
  * Semester:   Fall 2018
  * Course:     CS400
  * 
- * Due Date:   TODO: add assignment due date and time
+ * Due Date:   
  * Version:    1.0
  * 
- * Credits:    TODO: name individuals and sources outside of course staff
+ * Credits:    
  * 
- * Bugs:       TODO: add any known bugs, or unsolved problems here
+ * Bugs:       
  */
 import java.util.TreeMap;
 

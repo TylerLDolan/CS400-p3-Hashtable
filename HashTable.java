@@ -1,7 +1,7 @@
 /**
  * Filename:   HashTable.java
  * Project:    p3
- * Authors:    Tyler Dolan
+ * Authors:    Tyler Dolan, Collin L.
  * Emails:     tdolan4@wisc.edu
  *
  * Semester:   Fall 2018
